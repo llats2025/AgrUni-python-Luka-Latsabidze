@@ -1,2 +1,2 @@
-print('hello world')
-print('new comment')
+print(5**5)
+print(5/ 4)
