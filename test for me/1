@@ -1,5 +1,0 @@
-print('zd \nkoki')
-print('its sunny \ndayyyyy')
-print('zd koki', 'its', end='')
-print("sunny day")
-print("Hello", "World!",  "It's",  "sunny", "day.", sep=" --- ")
